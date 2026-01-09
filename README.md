@@ -73,7 +73,7 @@ This table shows cross-validated performance metrics for L1 regularization acros
 
 This table reports AUROC scores for L2 regularization across a range of `C` values.
 
-![L2 Regularization vs c](L2_regularization.png)
+<img src="L2_regularization.png" width="50%">
 
 **Key Observations:**
 - AUROC improves steadily as `C` increases
