@@ -60,7 +60,7 @@ To further evaluate model robustness and generalization, I compared **L1** and *
 
 This table shows cross-validated performance metrics for L1 regularization across different values of the inverse regularization strength `C`.
 
-![L1 Regularization vs c](figures/l1_regularization.png)
+![L1 Regularization vs c](L1_regularization.png)
 
 **Key Observations:**
 - The best AUROC (≈ 0.596) is achieved at **C = 100**
@@ -74,7 +74,7 @@ This table shows cross-validated performance metrics for L1 regularization acros
 
 This table reports AUROC scores for L2 regularization across a range of `C` values.
 
-![L2 Regularization vs c](figures/l2_regularization.png)
+![L2 Regularization vs c](L2_regularization.png)
 
 **Key Observations:**
 - AUROC improves steadily as `C` increases
