@@ -59,8 +59,7 @@ To further evaluate model robustness and generalization, I compared **L1** and *
 ### Table 1: L1-Regularized Logistic Regression (AUROC-Based CV)
 
 This table shows cross-validated performance metrics for L1 regularization across different values of the inverse regularization strength `C`.
-
-![L1 Regularization vs c](L1_regularization.png)
+<img src="L1_regularization.png" width="50%">
 
 **Key Observations:**
 - The best AUROC (≈ 0.596) is achieved at **C = 100**
